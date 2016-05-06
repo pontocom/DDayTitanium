@@ -1,0 +1,15 @@
+<Alloy>
+		<Window id="mainWWindow" title="Dream Destination a Day" class="container" fullscreen="false">
+			<LeftNavButton>
+				<Button image="share.png" onClick="sharePOI"></Button>
+			</LeftNavButton>
+			<RightNavButton>
+				<Button image="update.png" onClick="getRemoteData"></Button>
+			</RightNavButton>
+			<ImageView id="destinatonImage" top="0" onClick="openMap" width="Ti.UI.FILL" height="Ti.UI.FILL"></ImageView>
+			<View bottom="0" backgroundColor="#ffffff" height="60">
+				<Label id="destinationName" text="" top="5"></Label>
+				<Button id="destinationPlace" title="" top="20" width="Ti.UI.FILL" onClick="openMap"></Button>
+			</View>
+		</Window>
+</Alloy>

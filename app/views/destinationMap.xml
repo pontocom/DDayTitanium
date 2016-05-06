@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="destMapNWindow" title="Dream Destination a Day" class="container" fullscreen="false">
+		<LeftNavButton>
+            <Button onClick="closeDestMap" image="back.png"></Button>
+        </LeftNavButton>
+        <RightNavButton>
+        	<Button image="share.png" onClick="sharePOI"></Button>
+        </RightNavButton>
+        <View id="mapview" ns="Alloy.Globals.Map" animate="true" regionFit="true" userLocation="true" height="Ti.UI.FILL" top="0" left="0" />
+	</Window>
+</Alloy>

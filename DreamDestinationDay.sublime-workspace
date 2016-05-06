@@ -1,0 +1,528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"io",
+				"ion-content"
+			],
+			[
+				"ion",
+				"ion-pane"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"sta",
+				"startAt"
+			],
+			[
+				"lo",
+				"loginURL  (variable)"
+			],
+			[
+				"fie",
+				"fields_string  (variable)"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"sign",
+				"signinURL"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"respo",
+				"responseText"
+			],
+			[
+				"sess",
+				"sessionURL"
+			],
+			[
+				"us",
+				"userProfileWindow"
+			],
+			[
+				"main",
+				"mainWindow"
+			],
+			[
+				"inde",
+				"indexWindow"
+			],
+			[
+				"service",
+				"serviceAlert"
+			],
+			[
+				"services",
+				"servicesnok"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"stat",
+				"statusmessage"
+			],
+			[
+				"serv",
+				"servicesnok"
+			],
+			[
+				"id",
+				"id_default_account"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"nu",
+				"num_unk"
+			],
+			[
+				"Ti",
+				"Titanium"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tiapp.xml",
+			"settings":
+			{
+				"buffer_size": 2481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/index.xml",
+			"settings":
+			{
+				"buffer_size": 726,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/NowWhat/Trabalho final - NOW WHAT 2/Aplicação/nowWhat 2/config.xml",
+			"settings":
+			{
+				"buffer_size": 6331,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Titanium Build/Titanium.sublime-build",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 296.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cserrao/Documents/Development/PET/ioDDD/ioDDDay/www/index2.html",
+		"/Users/cserrao/Documents/Development/PET/ioDDD/ioDDDay/www/js/app.js",
+		"/Users/cserrao/Documents/Development/PET/ioDDD/ioDDDay/gulpfile.js",
+		"/Users/cserrao/Documents/Development/PET/ioDDD/ioDDDay/resources/splash.png",
+		"/Users/cserrao/Downloads/install-master/README.md",
+		"/Users/cserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/aulasdaam/AndroidStudioSamples/FacebookSample/gradle.properties",
+		"/Users/cserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/aulasdaam/AndroidStudioSamples/facebook-android-sdk-4.0.1/gradle.properties",
+		"/Users/cserrao/Documents/Pessoal/Contabilidade/Jeronimo Cardoso, Lda/SAFT/SAFT_Submissao_JC_20150301_20150331_501680713_1.03.xml",
+		"/Users/cserrao/Documents/Development/SiUinde/app/controllers/beachmap.js",
+		"/Users/cserrao/Documents/Development/HugACity/hugacity/mobile/Production/app/views/city_main.xml",
+		"/Users/cserrao/Documents/Development/HugACity/hugacity/mobile/Production/app/views/index.xml",
+		"/Users/cserrao/Documents/Development/HugACity/hugacity/mobile/Production/app/styles/index.tss",
+		"/Users/cserrao/Documents/Development/HugACity/hugacity/mobile/Production/app/controllers/index.js",
+		"/Users/cserrao/Sites/siuinde/scrapper.php",
+		"/Users/cserrao/Documents/Development/Oombie Android App/OombieApp/src/eu/netmust/oombieapp/MapBoxesActivity.java",
+		"/Users/cserrao/Documents/Projects/Projectos de Dissertação de Mestrado/2012/Terminadas/2010 - Sérgio Carvalho_TERMINADA/Tese/SocialSportsPackage/SocialSportsServlet/src/RecolheDados.java",
+		"/Users/cserrao/Documents/Development/Oombie Android App/OombieApp/src/eu/netmust/oombieapp/DownloadAndReadImage.java",
+		"/Users/cserrao/Library/Mail/V2/MailData/Signatures/41661319-4782-4906-A0DC-861945FBD645.iscte.html",
+		"/Users/cserrao/Library/Caches/Cleanup At Startup/Transmit/B5A7AEAD-FC44-401D-9627-6D34F95FF114/index.html",
+		"/Users/cserrao/Documents/Development/phonegap/DreamDestinationADay/www/css/index.css",
+		"/Users/cserrao/Documents/Development/phonegap/DreamDestinationADay/www/index.html",
+		"/Users/cserrao/Documents/Development/phonegap/DreamDestinationADay/www/js/index.js",
+		"/Users/cserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/NowWhat/Trabalho final - NOW WHAT 2/Aplicação/nowWhat 2/index.html",
+		"/Users/cserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/NowWhat/Trabalho final - NOW WHAT 2/Aplicação/nowWhat 2/config.xml",
+		"/Users/cserrao/Documents/Pessoal/Netmust/Signature/sig/emailSig.html",
+		"/Users/cserrao/Documents/501680713_SAFT_PT_2015-01-01.xml",
+		"/Users/cserrao/Library/Mail/V2/MailData/Signatures/AA41A34E-250F-4A16-A3AB-8C58A41AB52E.html",
+		"/Users/cserrao/Library/Mail/V2/MailData/Signatures/AA41A34E-250F-4A16-A3AB-8C58A41AB52E.mailsignature",
+		"/Users/cserrao/Library/Caches/Cleanup At Startup/Transmit/FFE0266A-2201-4052-8631-0E2429A17C51/LocalSettings.php",
+		"/Users/cserrao/Documents/Development/phonegap/siuinde/config.xml",
+		"/Users/cserrao/Documents/Development/phonegap/siuinde/www/index.html",
+		"/Users/cserrao/Documents/Development/phonegap/siuinde/plugins/ios.json",
+		"/Users/cserrao/Documents/Development/phonegap/siuinde/.cordova/config.json",
+		"/Users/cserrao/Documents/Development/phonegap/siuinde/www/res/screen/ios/screen-ipad-landscape-2x.png",
+		"/Users/cserrao/Documents/Development/phonegap/siuinde/www/res/icon/ios/icon-57-2x.png",
+		"/Users/cserrao/Library/Caches/Cleanup At Startup/Transmit/4A60B298-E906-4E3D-84CC-202E44CB79A2/LocalSettings.php",
+		"/Users/cserrao/Documents/Pessoal/Contabilidade/Jeronimo Cardoso, Lda/SAFT/SAFT_SUBMISSAO_01_20141001_20141031_501680713.XML",
+		"/Users/cserrao/Sites/mediawiki/extensions/Cite/Cite_body.php",
+		"/Users/cserrao/Sites/mediawiki/extensions/Cite/Cite.php",
+		"/Users/cserrao/Sites/mediawiki/extensions/Cite/citeParserTests.txt",
+		"/Users/cserrao/Sites/mediawiki/extensions/Cite/SpecialCite.alias.php",
+		"/Users/cserrao/Sites/mediawiki/extensions/Cite/SpecialCite.i18n.php",
+		"/Users/cserrao/Sites/mediawiki/extensions/Cite/SpecialCite.php",
+		"/Users/cserrao/Sites/mediawiki/extensions/Cite/SpecialCite_body.php",
+		"/Users/cserrao/Sites/mediawiki/index.php",
+		"/Users/cserrao/Library/Caches/Cleanup At Startup/Transmit/70F4567F-C06D-4B7A-A16A-34265EDFF0CE/LocalSettings.php",
+		"/Users/cserrao/Sites/Siuind/activityOverlord/assets/js/vendor/bootstrap.js",
+		"/Users/cserrao/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/CA5AC224-E8E0-467D-8B92-5E7DD26EFAA1/LocalSettings.php",
+		"/Users/carlosserrao/Documents/Development/HugACity/hugacity/mobile/Development/app/alloy.js",
+		"/Users/carlosserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/2aEpoca/TripChronics/TripChronics/app/alloy.js",
+		"/Users/carlosserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/2aEpoca/HealthMonitor/Projecto/Android/HealthMonitor/src/pt/iscte/meti/healthmonitor/tasks/GetHealthTask.java",
+		"/Users/carlosserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/2aEpoca/HealthMonitor/Projecto/Android/HealthMonitor/src/pt/iscte/meti/healthmonitor/service/AlertsService.java",
+		"/Users/carlosserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/2aEpoca/HealthMonitor/Projecto/Android/HealthMonitor/src/pt/iscte/meti/healthmonitor/listeners/SwipeListListener.java",
+		"/Users/carlosserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/2aEpoca/HealthMonitor/Projecto/Android/HealthMonitor/src/pt/iscte/meti/healthmonitor/db/HealthDS.java",
+		"/Users/carlosserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/2aEpoca/HealthMonitor/Projecto/Android/HealthMonitor/src/pt/iscte/meti/healthmonitor/db/HealthDB.java",
+		"/Users/carlosserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/2aEpoca/HealthMonitor/Projecto/Android/HealthMonitor/src/pt/iscte/meti/healthmonitor/draw/Charts.java",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00038] - PS 83184738.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00042] - PS 100340269.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00041] - PS 100230045.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00040] - PS 100134556.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00039] - PS 99948248.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00001] - PS 1453560.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00037] - PS 75035338.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00036] - PS 70878537.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00035] - PS 70878087.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00034] - PS 70876099.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00033] - PS 70875761.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00032] - PS 69966233.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00031] - PS 20171965.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00030] - PS 18458046.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00029] - PS 16044296.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00028] - PS 16044265.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00027] - PS 15999422.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00026] - PS 6746328.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00025] - PS 6746056.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00024] - PS 6739025.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00023] - PS 6737568.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00022] - PS 6710552.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00021] - PS 6682584.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00020] - PS 6664545.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00019] - PS 6625216.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00018] - PS 6611823.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00017] - PS 6610579.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00016] - PS 6610387.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00015] - PS 6609713.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00014] - PS 6609335.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00013] - PS 6609245.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00012] - PS 6607615.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00011] - PS 6605521.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00010] - PS 6328865.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00009] - PS 6328815.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00008] - PS 6327470.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00007] - PS 6327447.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00006] - PS 5991310.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00005] - PS 5977400.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00004] - PS 5917169.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00003] - PS 5904568.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00002] - PS 1453569.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00067] - PS 337393124.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00073] - PS 353257340.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00072] - PS 353256605.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00071] - PS 340430702.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00070] - PS 340379755.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00069] - PS 339949459.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00068] - PS 337702798.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00063] - PS 325020222.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00066] - PS 334157329.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00065] - PS 330675724.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00064] - PS 330655934.txt",
+		"/Users/carlosserrao/Documents/LOGS/IEF - Fev 04 2011 105852/Gmail/Gmail[00062] - PS 324145793.txt",
+		"/Users/carlosserrao/Sites/siuinde/addBeaches.sql",
+		"/Users/carlosserrao/Sites/siuinde/addBeaches.sh",
+		"/Users/carlosserrao/Sites/aal4all/python/simple.py",
+		"/Users/carlosserrao/Sites/aal4all/python/consume.py",
+		"/Users/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/activeAlarmDetail.js",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/216C4FD6-D5CA-4D9A-8C22-5AB758B57860/LocalSettings.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/39829291-A183-42C6-92C3-564461686016/config.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/F2E77FFC-FF23-4942-A2AF-A3CEE5907AE8/TwitterFeed.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/23D8AF72-8142-4FB4-9646-12873D2707C0/Foreground.skin.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/4039CB72-A1C7-4473-8D44-EEAE5321147A/LocalSettings.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/A02CDD13-EF56-4B44-8033-BAB012301926/Foreground.skin.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/0AED98F5-852D-485C-B535-5FDD5D05ECC6/foreground.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/index.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/index.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/index.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/ios/index.xml",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/D59723D6-9AB2-4E1C-B898-C7E6A89CC0B2/LocalSettings.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"map",
+			"maps",
+			"upload",
+			"skin",
+			"mysqli",
+			"connect",
+			"mysql",
+			"mysqli",
+			"main",
+			"authorize",
+			"twitter",
+			"foursquare"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tiapp.xml",
+					"settings":
+					{
+						"buffer_size": 2481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/index.xml",
+					"settings":
+					{
+						"buffer_size": 726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/cserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/trabalhos/NowWhat/Trabalho final - NOW WHAT 2/Aplicação/nowWhat 2/config.xml",
+					"settings":
+					{
+						"buffer_size": 6331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 37.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}

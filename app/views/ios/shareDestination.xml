@@ -1,0 +1,13 @@
+<Alloy>
+	<NavigationWindow id="shareDestNWindow" platform="ios">
+		<Window id="shareDestWindow" title="Dream Destination a Day" class="container" fullscreen="false">
+			<LeftNavButton platform="ios">
+                <Button onClick="closeShareDest" image="back.png">Back</Button>
+            </LeftNavButton>
+            <Label top="2" id="destinationName" text=""></Label>
+            <ImageView top="30" id="destinationImage" width="50%" height="50%"></ImageView>
+            <TextArea width="90%" height="30%" id="destinationShareText" bottom="50" borderColor="#cccccc" borderWidth="1" borderRadius="10"></TextArea>
+            <Button id="shareBtn" onClick="shareDestinationFB" title="Share" bottom="20"></Button>
+		</Window>
+	</NavigationWindow>
+</Alloy>
